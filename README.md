@@ -77,7 +77,7 @@ To make the documentation public in github pages run
 Authors
 =======
 
-ClearMap was originally desinged and developed by 
+ClearMap was originally designed and developed by 
 [Christoph Kirst](https://profiles.ucsf.edu/christoph.kirst). 
 
 The documentation was written by [Christoph Kirst](https://profiles.ucsf.edu/christoph.kirst).
